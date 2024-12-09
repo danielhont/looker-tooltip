@@ -1,0 +1,10 @@
+{
+    "data": {
+      "defaultDimensionCount": 0,
+      "defaultMetricCount": 0
+    },
+    "style": {},
+    "options": {},
+    "script": ["script.js"]
+  }
+  
